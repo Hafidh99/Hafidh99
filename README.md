@@ -11,6 +11,11 @@
 
 ---
 
+### 🎮 Live Status
+<p align="left">
+  <img src="https://lanyard.cnrs.is/api/Hafidh99?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
+</p>
+
 ### 🛠️ Tech Stack & Tools
 
 **Backend & Frameworks**
