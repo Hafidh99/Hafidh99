@@ -51,3 +51,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Laravel+•+Tailwind+•+Filament;Full-Stack+Web+Developer;Building+Portals+%26+Dashboards" alt="Typing SVG" />
 </div>
+
+---
+
+<h3 align="left">📫 Connect</h3>
+
+<div align="left">
+  <a href="https://github.com/Hafidh99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hafidh-hefiandra-1b3358308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hafidhhefiandra99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
