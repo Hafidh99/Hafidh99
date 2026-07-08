@@ -48,12 +48,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Laravel+•+Tailwind+•+Filament;Full-Stack+Web+Developer;Building+Portals+%26+Dashboards" alt="Typing SVG" />
-</div>
-
----
-
 <h3 align="left">📫 Connect</h3>
 
 <div align="left">
@@ -66,4 +60,11 @@
   <a href="mailto:hafidhhefiandra99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+---
+
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hafidh99/Hafidh99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
