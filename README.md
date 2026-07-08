@@ -50,10 +50,3 @@
 </table>
 
 ---
-
-### 🚀 Highlighted Repositories
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafidh99&repo=htpberita-test&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HTP Berita Test" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafidh99&repo=dashboard-mahasiswa&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dashboard Mahasiswa" />
-</p>
