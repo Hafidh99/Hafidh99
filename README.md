@@ -36,6 +36,13 @@
 
 ---
 
+### ⏱️ Weekly Coding Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=izumi99&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="WakaTime Stats" />
+</p>
+
+---
+
 ### 🎮 Live Status
 <p align="left">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
