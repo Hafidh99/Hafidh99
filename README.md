@@ -1,53 +1,59 @@
-## Hi there 👋
+# Hi, I'm Hafidh Hefiandra 👋
+### Full-Stack & Backend Developer
 
-### 🛠️ Tech Stack & GitHub Stats
+---
 
+### 👨‍💻 About Me
+- 🚀 **Backend Leanings:** Fokus mengembangkan sistem backend yang stabil menggunakan **Laravel** serta arsitektur Headless CMS dengan **Strapi**.
+- 🖥️ **Full-Stack Projects:** Terbiasa mengintegrasikan logika server dengan tampilan dinamis menggunakan **Blade Templating** dan **Tailwind CSS**.
+- 🐋 **DevOps Implementation:** Pernah menangani konfigurasi server dasar dan deployment menggunakan **Docker** (`deploy.yml`) untuk menjaga aplikasi tetap *up* dan berjalan lancar.
+- 🎓 **Digital Transformation:** Aktif membangun dan mengelola portal berita serta dashboard sistem informasi berbasis web untuk ekosistem akademik.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E6F?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+</p>
+
+**Frontend & Design**
+<p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade Templating" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
+
+**DevOps & Utilities**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hafidh99&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🚀 Featured Project & Streak
+---
 
-<table>
+### 📊 GitHub Activity & Metrics
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%">
-      <b>Multi-tenant Architecture</b><br>
-      Built multi-tenant architecture for university projects.<br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafidh99&repo=Univ-HTP/backend&show_owner=false&theme=dracula&hide_border=true&bg_color=0D1117" alt="Project Pin" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Hafidh's GitHub Stats" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafidh99&theme=dracula&hide_border=true&background=0D1117&ring=A855F7&fire=3B82F6&currStreakNum=A855F7" alt="Streak Stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafidh99&theme=tokyonight&hide_border=true&background=0D1117" alt="Hafidh's Streak" />
     </td>
   </tr>
 </table>
 
 ---
 
-> "All repairs tend to destroy structure, to increase the disorder of a system."
+### 🚀 Highlighted Repositories
 
-<p align="center">
-  <a href="https://github.com/Hafidh99"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/hafidh99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafidh99&repo=htpberita-test&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HTP Berita Test" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafidh99&repo=dashboard-mahasiswa&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dashboard Mahasiswa" />
 </p>
-
-<!--
-**Hafidh99/Hafidh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
