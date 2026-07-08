@@ -4,11 +4,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 **Backend Leanings:** Fokus mengembangkan sistem backend yang stabil menggunakan **Laravel** serta arsitektur Headless CMS dengan **Strapi**.
-- 🖥️ **Full-Stack Projects:** Terbiasa mengintegrasikan logika server dengan tampilan dinamis menggunakan **Blade Templating** dan **Tailwind CSS**.
-- 🐋 **DevOps Implementation:** Pernah menangani konfigurasi server dasar dan deployment menggunakan **Docker** (`deploy.yml`) untuk menjaga aplikasi tetap *up* dan berjalan lancar.
-- 🎓 **Digital Transformation:** Aktif membangun dan mengelola portal berita serta dashboard sistem informasi berbasis web untuk ekosistem akademik.
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  - 🔭 Fokus di ekosistem <b>PHP</b> — <b>Laravel</b>, <b>Filament</b>, <b>Strapi</b><br>
+  - 🌐 Frontend: <b>Blade Templating</b> + <b>Tailwind CSS</b><br>
+  - ⚡ Di waktu luang, Gaming, atau belajar ngoding (lagi)<br>
+  - 🏫 Web Developer di <b>Universitas Hang Tuah Pekanbaru</b>
+</p>
 
 ---
 
