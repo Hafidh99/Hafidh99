@@ -11,13 +11,6 @@
 
 ---
 
-### 🎮 Live Status
-<p align="left">
-  <a href="https://discord.com/users/832141643251056660" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
-  </a>
-</p>
-
 ### 🛠️ Tech Stack & Tools
 
 **Backend & Frameworks**
@@ -43,6 +36,11 @@
 
 ---
 
-
+### 🎮 Live Status
+<p align="left">
+  <a href="https://discord.com/users/832141643251056660" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
+  </a>
+</p>
 
 ---
