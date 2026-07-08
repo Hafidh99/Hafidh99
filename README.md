@@ -44,3 +44,7 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Laravel+•+Tailwind+•+Filament;Full-Stack+Web+Developer;Building+Portals+%26+Dashboards" alt="Typing SVG" />
+</div>
