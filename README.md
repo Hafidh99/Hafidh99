@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Hafidh;Full-Stack+Developer;Laravel+%E2%80%A2+Filament;Tailwind+%E2%80%A2+Blade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B!+I'm+Hafidh;Full-Stack+%26+Backend+Developer;Laravel+%E2%80%A2+Filament;Tailwind+%E2%80%A2+Blade" alt="Typing SVG" />
 </div>
-
-### Full-Stack & Backend Developer
 
 ---
 
