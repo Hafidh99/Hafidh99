@@ -14,7 +14,7 @@
 ### 🎮 Live Status
 <p align="left">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
-    <img src="https://lanyard.cnrs.is/api/832141643251056660?theme=tokyonight&bg_color=0D1117" alt="Discord Status" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
   </a>
 </p>
 
@@ -43,17 +43,6 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Hafidh's GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafidh99&theme=tokyonight&hide_border=true&background=0D1117" alt="Hafidh's Streak" />
-    </td>
-  </tr>
-</table>
 
 ---
