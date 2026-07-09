@@ -87,4 +87,5 @@
 
 
 🕹️ Currently grinding: <b>Genshin Impact</b>, <b>Zenless Zone Zero</b>, <b>Trickcal Revive</b>, or engineering custom extensions and scripts for a private RP framework.
+
 ---
