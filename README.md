@@ -86,4 +86,4 @@
 </p>
 
 
-🕹️ Currently grinding: <b>Valorant</b>, <b>Monster Hunter Wilds</b>, or fine-tuning custom character RP scripts.
+🕹️ Currently grinding: <b>Genshin Impact</b>, <b>Zenless Zone Zero</b>, <b>Trickcal Revive</b>, or engineering custom extensions and scripts for a private RP framework.
