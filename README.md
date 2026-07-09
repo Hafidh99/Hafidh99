@@ -67,3 +67,12 @@
 <div align="center">
   <img src="https://github.com/Hafidh99/Hafidh99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hafidh99's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
