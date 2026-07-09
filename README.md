@@ -84,3 +84,6 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
   </a>
 </p>
+
+
+🕹️ Currently grinding: <b>Valorant</b>, <b>Monster Hunter Wilds</b>, or fine-tuning custom character RP scripts.
