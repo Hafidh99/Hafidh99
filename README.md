@@ -75,7 +75,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
 </div>
 
-### 🎮 Live Status
 <p align="Center">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
     <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
