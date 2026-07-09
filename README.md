@@ -96,3 +96,9 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Hafidh99's Trophies" />
 </div>
+
+<h3 align="center">👾 Terminal Logs</h3>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117" alt="Programming Jokes" />
+</div>
