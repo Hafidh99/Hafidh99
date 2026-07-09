@@ -78,7 +78,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=tokyonight&hide_border=true&background=0D1117&v=1" height="165" alt="GitHub streak" />
 </div>
 
 <div align="center">
