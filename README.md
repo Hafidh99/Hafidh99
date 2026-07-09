@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Moshi2~+IzumI+desu~~;Full-Stack+%26+Backend+Developer;Laravel+%E2%80%A2+Filament;Tailwind+%E2%80%A2+Blade" alt="Typing SVG" />
 </div>
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">🚀 Overview</h3>
 
 <p align="left">
-  - 🔭 Fokus di ekosistem <b>PHP</b> — <b>Laravel</b>, <b>Filament</b>, <b>Strapi</b><br>
-  - 🌐 Frontend: <b>Blade Templating</b> + <b>Tailwind CSS</b><br>
-  - ⚡ Di waktu luang, Gaming, atau belajar ngoding (lagi)<br>
-  - 🏫 Web Developer di <b>Universitas Hang Tuah Pekanbaru</b>
+  💼 Active Web Developer at <b>Universitas Hang Tuah Pekanbaru</b>.<br>
+  💻 Crafting robust backend systems primarily within the <b>Laravel</b> & <b>Filament</b> ecosystem.<br>
+  🎨 Designing interfaces using <b>Tailwind CSS</b> and <b>Blade Templating</b>.<br>
+  🕹️ Usually found exploring virtual worlds or diving into side projects during downtime.
 </p>
 
 ---
