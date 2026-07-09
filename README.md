@@ -42,15 +42,6 @@
 
 ---
 
-### 🎮 Live Status
-<p align="left">
-  <a href="https://discord.com/users/832141643251056660" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
-  </a>
-</p>
-
----
-
 <h3 align="left">📫 Connect</h3>
 
 <div align="left">
@@ -78,11 +69,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=tokyonight&hide_border=true&background=0D1117&v=1" height="165" alt="GitHub streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafidh99&theme=tokyonight&hide_border=true&background=0D1117&v=1" height="165" alt="GitHub streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
-  <img src="https://lanyard.cnrad.dev/api/832141643251056660?theme=tokyonight&bg=0D1117&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Grinding%20or%20Coding...&showDisplayName=true" height="165" alt="Discord status" />
 </div>
+
+### 🎮 Live Status
+<p align="Center">
+  <a href="https://discord.com/users/832141643251056660" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
+  </a>
+</p>
