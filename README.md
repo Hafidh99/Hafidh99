@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">⚡ System Diagnostics & Metrics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
@@ -75,7 +75,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
 </div>
 
-<p align="Center">
+<br>
+
+<h3 align="center">📡 Live Signal & Connection</h3>
+
+<p align="center">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
     <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
   </a>
