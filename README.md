@@ -68,11 +68,11 @@
 <h3 align="center">⚡ System Diagnostics & Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafidh99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=a855f7&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=e2e8f0" height="165" alt="Top languages" />
 </div>
 
 <br>
