@@ -89,3 +89,10 @@
 🕹️ Currently grinding: <b>Genshin Impact</b>, <b>Zenless Zone Zero</b>, <b>Trickcal Revive</b>, or engineering custom extensions and scripts for a private RP framework.
 
 ---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Hafidh99 Trophies" />
+  </a>
+</div>
