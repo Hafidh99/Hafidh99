@@ -1,12 +1,6 @@
-<h3 align="center">📜 Character Status</h3>
 
-<div align="center">
 
-| 🗡️ Class | 🌍 Guild / Base | 🔮 Primary Element | 🎭 Alignment |
-| :---: | :---: | :---: | :---: |
-| Full-Stack Developer | Universitas Hang Tuah Pekanbaru | Laravel & Filament | Chaotic Good |
 
-</div>
 
 ---
 
@@ -29,14 +23,14 @@
 
 <br>
 
-<h3 align="center">🚀 Overview</h3>
+<h3 align="center">📜 Character Status</h3>
+<div align="center">
 
-<p align="center">
-  💼 Active Web Developer at <b>Universitas Hang Tuah Pekanbaru</b>.<br>
-  💻 Crafting robust backend systems primarily within the <b>Laravel</b> & <b>Filament</b> ecosystem.<br>
-  🎨 Designing interfaces using <b>Tailwind CSS</b> and <b>Blade Templating</b>.<br>
-  🕹️ Usually found exploring virtual worlds or diving into side projects during downtime.
-</p>
+| 🗡️ Class | 🌍 Guild / Base | 🔮 Primary Element | 🎭 apa yaa~? |
+| :---: | :---: | :---: | :---: |
+| Full-Stack Developer | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | iya yak, apa ya~ |
+
+</div>
 
 ---
 
