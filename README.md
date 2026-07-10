@@ -87,6 +87,7 @@
 <div align="center">
   <table width="100%" align="center">
     <tr>
+      <!-- Kolom Kiri: Status Gaming -->
       <td width="50%" valign="middle" align="center">
         <b>🎮 Current Quest / Grinding</b><br><br>
         🕹️ <i>Genshin Impact</i><br>
@@ -95,16 +96,12 @@
         ⚙️ <i>Engineering custom scripts for private RP framework</i>
       </td>
       
-      <!-- Kolom Kanan: Aesthetic Weeb/Coder Quote -->
+      <!-- Kolom Kanan: Widget Card Quote -->
       <td width="50%" valign="middle" align="center">
-        <blockquote>
-          <i>"Debugging in production by day, losing 50/50 in gacha by night. If my code doesn't work, it's an undocumented feature. If my pulls are bad, it's a tragedy."</i>
-          <br><br>— <b>Izumi</b> 🌸
-        </blockquote>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
       </td>
     </tr>
   </table>
 </div>
 <br>
-
 
