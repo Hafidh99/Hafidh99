@@ -91,7 +91,3 @@
 
 ---
 
-### 💬 Quote of the Day
-<img src="./quote.svg" width="450" alt="Kang Koding Wibu Quote" />
-
----
