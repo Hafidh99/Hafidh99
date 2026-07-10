@@ -3,10 +3,20 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hafidh99&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Hafidh99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hafidh-hefiandra-1b3358308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hafidhhefiandra99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<h3 align="left">🚀 Overview</h3>
+<br>
+
+<h3 align="center">🚀 Overview</h3>
 
 <p align="center">
   💼 Active Web Developer at <b>Universitas Hang Tuah Pekanbaru</b>.<br>
@@ -14,18 +24,6 @@
   🎨 Designing interfaces using <b>Tailwind CSS</b> and <b>Blade Templating</b>.<br>
   🕹️ Usually found exploring virtual worlds or diving into side projects during downtime.
 </p>
-
-
-<h3 align="center">📡 Live Signal & Connection</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/832141643251056660" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
-  </a>
-</p>
-
-<br>
-
 
 ---
 
@@ -54,35 +52,15 @@
 
 ---
 
-<h3 align="left">📫 Connect</h3>
+<h3 align="center">🧊 Activity & Contributions</h3>
 
-<div align="left">
-  <a href="https://github.com/Hafidh99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/hafidh-hefiandra-1b3358308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hafidhhefiandra99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-<br clear="both">
 <div align="center">
   <img src="https://github.com/Hafidh99/Hafidh99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </div>
-
----
-
-
-<h3 align="center">🧊 Contribution City</h3>
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hafidh99/Hafidh99/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
 </div>
-
 
 ---
 
@@ -92,5 +70,16 @@
 * 🍰 *Trickcal Revive*
 * ⚙️ *Engineering custom scripts for private RP framework*
 
----
+<br>
 
+<h3 align="center">📡 Live Signal & Connection</h3>
+<p align="center">
+  <a href="https://discord.com/users/832141643251056660" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
+  </a>
+</p>
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hafidh99&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
