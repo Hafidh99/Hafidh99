@@ -87,7 +87,6 @@
 <div align="center">
   <table width="100%" align="center">
     <tr>
-      <!-- Kolom Kiri: Status Gaming -->
       <td width="50%" valign="middle" align="center">
         <b>🎮 Current Quest / Grinding</b><br><br>
         🕹️ <i>Genshin Impact</i><br>
