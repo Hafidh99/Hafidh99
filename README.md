@@ -8,7 +8,7 @@
 
 <h3 align="left">🚀 Overview</h3>
 
-<p align="left">
+<p align="center">
   💼 Active Web Developer at <b>Universitas Hang Tuah Pekanbaru</b>.<br>
   💻 Crafting robust backend systems primarily within the <b>Laravel</b> & <b>Filament</b> ecosystem.<br>
   🎨 Designing interfaces using <b>Tailwind CSS</b> and <b>Blade Templating</b>.<br>
