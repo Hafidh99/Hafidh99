@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_ID]&cover_image=true&theme=tokyonight&bar_color=A855F7&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/Hafidh99" target="_blank">
+    <img src="https://spotify-widget-lemon.vercel.app/api/spotify?border_color=ffffff&bar_color=A855F7" alt="Spotify Now Playing" />
   </a>
 </p>
 
