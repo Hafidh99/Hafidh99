@@ -74,49 +74,38 @@
 
 ---
 
-<h3 align="center">⚡ System Diagnostics & Metrics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafidh99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=a855f7&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=e2e8f0" height="165" alt="Top languages" />
-</div>
-
-<br>
 
 <h3 align="center">🧊 Contribution City</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hafidh99/Hafidh99/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
 </div>
 
-<br>
-
-
-
-
-🕹️ Currently grinding: <b>Genshin Impact</b>, <b>Zenless Zone Zero</b>, <b>Trickcal Revive</b>, or engineering custom extensions and scripts for a private RP framework.
 
 ---
 
-
-
 <br>
 <div align="center">
-  <blockquote>
-    <i>"Forging digital realms line by line. Exploring the boundaries of code by day, and getting lost in virtual worlds by night."</i>
-    <br>— <b>Izumi</b>
-  </blockquote>
+  <table width="100%" align="center">
+    <tr>
+      <!-- Kolom Kiri: Status Gaming -->
+      <td width="50%" valign="middle" align="center">
+        <b>🎮 Current Quest / Grinding</b><br><br>
+        🕹️ <i>Genshin Impact</i><br>
+        ⚔️ <i>Zenless Zone Zero</i><br>
+        🍰 <i>Trickcal Revive</i><br>
+        ⚙️ <i>Engineering custom scripts for private RP framework</i>
+      </td>
+      
+      <!-- Kolom Kanan: Aesthetic Weeb/Coder Quote -->
+      <td width="50%" valign="middle" align="center">
+        <blockquote>
+          <i>"Debugging in production by day, losing 50/50 in gacha by night. If my code doesn't work, it's an undocumented feature. If my pulls are bad, it's a tragedy."</i>
+          <br><br>— <b>Izumi</b> 🌸
+        </blockquote>
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Hafidh99 Trophies" />
-  </a>
-</div>
 
