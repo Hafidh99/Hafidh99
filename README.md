@@ -1,4 +1,9 @@
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hafidh99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafidh99&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Moshi2~+IzumI+desu~~;Full-Stack+%26+Backend+Developer;Laravel+%E2%80%A2+Filament;Tailwind+%E2%80%A2+Blade" alt="Typing SVG" />
 </div>
 
