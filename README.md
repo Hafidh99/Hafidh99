@@ -83,51 +83,15 @@
 
 ---
 
-<br>
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="50%" valign="top" align="left" style="border: none; padding-right: 10px;">
-        <h3 style="margin-top: 0;">🎮 Current Quest / Grinding</h3>
-        <p>🕹️ <i>Genshin Impact</i></p>
-        <p>⚔️ <i>Zenless Zone Zero</i></p>
-        <p>🍰 <i>Trickcal Revive</i></p>
-        <p>⚙️ <i>Engineering custom scripts for private RP framework</i></p>
-      </td>
-
-      <td width="50%" valign="top" align="center" style="border: none;">
-        <img src="quote.svg" width="450" alt="Kang Koding Wibu Quote" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
+### 🎮 Current Quest / Grinding
+* 🕹️ *Genshin Impact*
+* ⚔️ *Zenless Zone Zero*
+* 🍰 *Trickcal Revive*
+* ⚙️ *Engineering custom scripts for private RP framework*
 
 ---
 
 ### 💬 Quote of the Day
 <img src="./quote.svg" width="450" alt="Kang Koding Wibu Quote" />
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 160" width="450" height="160">
-  <!-- Background Card Gelap dengan Rounded Corner -->
-  <rect width="450" height="160" rx="12" fill="#141416" />
-  
-  <!-- Simbol Quote Hijau -->
-  <text x="30" y="55" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="40" font-weight="bold" fill="#22c55e" font-style="italic">“</text>
-  
-  <!-- Isi Quote -->
-  <text x="55" y="50" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" fill="#cccccc" font-style="italic">
-    Katanya full-stack developer senior,
-  </text>
-  <text x="55" y="75" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" fill="#cccccc" font-style="italic">
-    tapi pas ditanya waifu, jawabnya lebih lancar
-  </text>
-  <text x="55" y="100" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" fill="#cccccc" font-style="italic">
-    daripada jelasin struktur database.”
-  </text>
-  
-  <!-- Author Quote -->
-  <text x="420" y="135" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" fill="#888888" font-style="italic" text-anchor="end">
-    - Kredo Kang Koding Wibu
-  </text>
-</svg>
+---
