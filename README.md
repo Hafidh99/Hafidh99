@@ -94,12 +94,7 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Hafidh99 Trophies" />
-  </a>
-</div>
+
 
 <br>
 <div align="center">
@@ -109,3 +104,15 @@
   </blockquote>
 </div>
 <br>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Hafidh99 Trophies" />
+  </a>
+</div>
+
+<h3 align="center">🧊 Contribution City</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hafidh99/Hafidh99/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
+</div>
