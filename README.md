@@ -83,11 +83,25 @@
 
 ---
 
-### 🎮 Current Quest / Grinding
-* 🕹️ *Genshin Impact*
-* ⚔️ *Zenless Zone Zero*
-* 🍰 *Trickcal Revive*
-* ⚙️ *Engineering custom scripts for private RP framework*
+<br>
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="50%" valign="top" align="left" style="border: none; padding-right: 10px;">
+        <h3 style="margin-top: 0;">🎮 Current Quest / Grinding</h3>
+        <p>🕹️ <i>Genshin Impact</i></p>
+        <p>⚔️ <i>Zenless Zone Zero</i></p>
+        <p>🍰 <i>Trickcal Revive</i></p>
+        <p>⚙️ <i>Engineering custom scripts for private RP framework</i></p>
+      </td>
+
+      <td width="50%" valign="top" align="center" style="border: none;">
+        <img src="quote.svg" width="450" alt="Kang Koding Wibu Quote" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 
 ---
 
