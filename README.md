@@ -25,16 +25,16 @@
 
 <br>
 
-<h3 align="center">⛓️ Playroom Dynamics</h3>
+<h3 align="center">🐾 Playroom Dynamics</h3>
 <div align="center">
 
-| 👑 Role | 🏰 The Dungeon | 🪢 Instruments of Choice | 🤐 Safeword |
+| 🐾 Role & Dynamic | 🏰 The Kennel / Lair | 🪢 Leashes & Instruments | 🤐 Safeword |
 | :---: | :---: | :---: | :---: |
-| Rigger / Switch (Full-Stack) | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
+| Handler / Switch (Full-Stack) | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
 
 </div>
 
-### 🛏️ The Rack (Battle Station)
+### 🐾 The Playpen (Battle Station)
 - **Rig:** Lenovo LOQ
 - **Weapon:** Noir Timeless V2 & M7 Ultra
 ---
@@ -64,7 +64,17 @@
 
 ---
 
-<h3 align="center">🧊 Activity & Contributions</h3>
+<h3 align="center">🔥 Daily Obedience (Streak)</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+---
+
+<h3 align="center">🐾 Tracks & Footprints (Activity)</h3>
+
 
 <div align="center">
   <img src="https://github.com/Hafidh99/Hafidh99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
@@ -76,15 +86,15 @@
 
 ---
 
-### ⛓️ Current Obsession / Play
+### 🦴 Current Obsession / Play
 * 🕹️ *Genshin Impact*
 * ⚔️ *Zenless Zone Zero*
 * 🍰 *Trickcal Revive*
-* ⚙️ *Engineering custom scripts for private RP framework*
+* 🪢 *Engineering custom restraints & play-scripts for a certain exclusive Club*
 
 <br>
 
-<h3 align="center">📡 Live Signal & Connection</h3>
+<h3 align="center">📡 The Leash (Connection)</h3>
 <p align="center">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
     <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
