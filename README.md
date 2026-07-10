@@ -25,6 +25,10 @@
 
 </div>
 
+### ⚙️ Battle Station
+- **Rig:** Lenovo LOQ
+- **Weapon:** Noir Timeless V2 (Mechanical Keyboard)
+- **Environment:** WSL2 / Docker
 ---
 
 ### 🛠️ Tech Stack & Tools
