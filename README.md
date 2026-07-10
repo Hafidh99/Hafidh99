@@ -25,21 +25,21 @@
 
 <br>
 
-<h3 align="center">📜 Character Status</h3>
+<h3 align="center">⛓️ Playroom Dynamics</h3>
 <div align="center">
 
-| 🗡️ Class | 🌍 Guild / Base | 🔮 Primary Element | 🎭 apa yaa~? |
+| 👑 Role | 🏰 The Dungeon | 🪢 Instruments of Choice | 🤐 Safeword |
 | :---: | :---: | :---: | :---: |
-| Full-Stack Developer | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | iya yak, apa ya~ |
+| Rigger / Switch (Full-Stack) | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
 
 </div>
 
-### ⚙️ Battle Station
+### 🛏️ The Rack (Battle Station)
 - **Rig:** Lenovo LOQ
 - **Weapon:** Noir Timeless V2 & M7 Ultra
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧰 The Toy Box (Tech Stack)
 
 **Backend & Frameworks**
 <p align="left">
@@ -76,7 +76,7 @@
 
 ---
 
-### 🎮 Current Quest / Grinding
+### ⛓️ Current Obsession / Play
 * 🕹️ *Genshin Impact*
 * ⚔️ *Zenless Zone Zero*
 * 🍰 *Trickcal Revive*
