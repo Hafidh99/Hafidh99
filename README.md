@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://open.spotify.com/user/Hafidh99" target="_blank">
-    <img src="https://spotify-widget-lemon.vercel.app/api/spotify?border_color=ffffff&bar_color=A855F7" alt="Spotify Now Playing" />
+    <img src="https://spotify-widget-lemon.vercel.app/api/orchestrator?border_color=ffffff" alt="Spotify Now Playing" />
   </a>
 </p>
+
 
 ---
 
