@@ -1,10 +1,3 @@
-
-
-
-
----
-
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Moshi2~+IzumI+desu~~;Full-Stack+%26+Backend+Developer;Laravel+%E2%80%A2+Filament;Tailwind+%E2%80%A2+Blade" alt="Typing SVG" />
 </div>
