@@ -1,8 +1,8 @@
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_ID]&cover_image=true&theme=tokyonight&bar_color=A855F7&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
-</div>
+</p>
 
 ---
 
