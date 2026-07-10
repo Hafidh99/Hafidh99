@@ -96,3 +96,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Hafidh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Hafidh99 Trophies" />
   </a>
 </div>
+
+<h3 align="center">📈 Coding Activity</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafidh99&theme=tokyonight&hide_border=true&bg_color=0D1117&color=a855f7&line=c084fc&point=ffffff&area=true" alt="Activity Graph" />
+</div>
+
+<br>
+<div align="center">
+  <blockquote>
+    <i>"Forging digital realms line by line. Exploring the boundaries of code by day, and getting lost in virtual worlds by night."</i>
+    <br>— <b>Izumi</b>
+  </blockquote>
+</div>
+<br>
