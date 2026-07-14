@@ -73,6 +73,13 @@
 
 ---
 
+<h3 align="center">⏱️ WakaTime Stats</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <h3 align="center">🐾 Tracks & Footprints (Activity)</h3>
 
 
