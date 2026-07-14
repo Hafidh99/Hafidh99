@@ -78,15 +78,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-Total Time: 9 hrs 18 mins
+Total Time: 15 hrs 40 mins
 
-Blade Template   2 hrs 20 mins         ░░░░░░███████████████████   24.29 %
-Bash             1 hr 17 mins          ░░░▓█████████████████████   13.29 %
-JSON             1 hr 13 mins          ░░░▓█████████████████████   12.74 %
-JavaScript       1 hr 11 mins          ░░░██████████████████████   12.39 %
-PHP              53 mins               ░░▓██████████████████████   09.17 %
+JavaScript       5 hrs 40 mins         ░░░░░░░░▓████████████████   33.86 %
+Blade Template   2 hrs 20 mins         ░░░▒█████████████████████   14.02 %
+Bash             1 hr 58 mins          ░░░██████████████████████   11.75 %
+JSON             1 hr 29 mins          ░░▓██████████████████████   08.88 %
+Other            1 hr 4 mins           ░▒███████████████████████   06.42 %
 ```
 
 <!--END_SECTION:waka-->
