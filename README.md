@@ -74,25 +74,9 @@
 ---
 
 <h3 align="center">⛓️ Time in Restraints (Coding Sessions)</h3>
-<div align="center">
-  <code>
-    <!--START_SECTION:waka-->
 
-    ```txt
-    From: 06 July 2026 - To: 13 July 2026
-    
-    Total Time: 9 hrs 18 mins
-    
-    Blade Template   2 hrs 20 mins         ░░░░░░███████████████████   24.29 %
-    Bash             1 hr 17 mins          ░░░▓█████████████████████   13.29 %
-    JSON             1 hr 13 mins          ░░░▓█████████████████████   12.74 %
-    JavaScript       1 hr 11 mins          ░░░██████████████████████   12.39 %
-    PHP              53 mins               ░░▓██████████████████████   09.17 %
-    ```
-    
-    <!--END_SECTION:waka-->
-  </code>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
