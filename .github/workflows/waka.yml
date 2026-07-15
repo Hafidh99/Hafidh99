@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write 
     steps:
-      - uses: anmol0013/waka-readme-stats@main
+      - uses: athul/waka-readme-stats@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -24,4 +24,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: "JSON, YAML, Text, Markdown" 
-          BLOCKS: █▓▒░
+          BLOCKS: ▰▱
