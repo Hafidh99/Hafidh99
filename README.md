@@ -78,18 +78,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 16 July 2026
+From: 10 July 2026 - To: 17 July 2026
 
-Total Time: 18 hrs 4 mins
+Total Time: 20 hrs 23 mins
 
-JavaScript       6 hrs 31 mins         ▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   33.25 %
-Blade Template   2 hrs 56 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   14.95 %
-Bash             1 hr 58 mins          ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   10.03 %
-Other            1 hr 33 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.94 %
-JSON             1 hr 23 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.06 %
-Git Config       1 hr 5 mins           ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   05.57 %
-YAML             58 mins               ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   05.00 %
-PHP              53 mins               ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.51 %
+JavaScript       9 hrs 29 mins         ▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰   43.28 %
+Blade Template   2 hrs 56 mins         ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   13.38 %
+Bash             1 hr 36 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.32 %
+Other            1 hr 32 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.05 %
+JSON             1 hr 23 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   06.32 %
+Git Config       1 hr 8 mins           ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   05.19 %
+YAML             59 mins               ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.52 %
+PHP              53 mins               ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.04 %
 ```
 
 <!--END_SECTION:waka-->
