@@ -7,6 +7,7 @@ on:
     push:
         branches:
             - main
+
 jobs:
     auto_commit:
         runs-on: ubuntu-latest
@@ -14,22 +15,23 @@ jobs:
             - name: Checkout Repository
               uses: actions/checkout@v4
 
-            - name: Randomize Commits and Push
+            - name: Random Multiple Commits with Delay
               run: |
                   git config --local user.email "${{ secrets.USER_EMAIL }}"
                   git config --local user.name "${{ secrets.USER_NAME }}"
 
-                  NUM_COMMITS=$(( ( RANDOM % 11 )  + 3 ))
-
-                  echo "Hari ini bot akan melakukan $NUM_COMMITS commits."
+                  NUM_COMMITS=$(( ( RANDOM % 5 ) + 3 ))
+                  echo "Hari ini bot akan melakukan $NUM_COMMITS commit."
 
                   for i in $(seq 1 $NUM_COMMITS); do
-                    echo "Automated update $i on: $(date)" >> bot-log.txt
+                    DELAY=$(( ( RANDOM % 46 ) + 15 ))
+                    echo "Jeda commit ke-$i: Menunggu $DELAY detik..."
+                    sleep $DELAY
+                    
+                    echo "Automated update part $i on: $(date)" >> bot-log.txt
                     git add bot-log.txt
                     git commit -m "chore: auto update part $i"
-                    
-                    sleep 1
                   done
 
                   git pull --rebase origin main
-                  git push
+                  git push origin main
