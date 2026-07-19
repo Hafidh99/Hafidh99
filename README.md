@@ -28,20 +28,23 @@
 <h3 align="center">🐾 Playroom Dynamics</h3>
 <div align="center">
 
-| 🐾 Role & Dynamic | 🏰 The Kennel / Lair | 🪢 Leashes & Instruments | 🤐 Safeword |
-| :---: | :---: | :---: | :---: |
+|       🐾 Role & Dynamic       |      🏰 The Kennel / Lair       |  🪢 Leashes & Instruments  |  🤐 Safeword  |
+| :---------------------------: | :-----------------------------: | :------------------------: | :-----------: |
 | Handler / Switch (Full-Stack) | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
 
 </div>
 
 ### 🐾 The Playpen (Battle Station)
+
 - **Rig:** Lenovo LOQ
 - **Weapon:** Noir Timeless V2 & M7 Ultra
+
 ---
 
 ### 🧰 The Toy Box (Tech Stack)
 
 **Backend & Frameworks**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Strapi-2F2E6F?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
@@ -50,6 +53,7 @@
 </p>
 
 **Frontend & Design**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade Templating" />
@@ -57,6 +61,7 @@
 </p>
 
 **DevOps & Utilities**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -76,27 +81,11 @@
 <h3 align="center">⛓️ Time in Restraints (Coding Sessions)</h3>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 11 July 2026 - To: 18 July 2026
-
-Total Time: 30 hrs 43 mins
-
-JavaScript       13 hrs 56 mins        ▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰   43.50 %
-Blade Template   2 hrs 53 mins         ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   09.01 %
-PHP              2 hrs 51 mins         ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.92 %
-JSON             1 hr 22 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.27 %
-TypeScript       1 hr 19 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.14 %
-Other            1 hr 19 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.13 %
-Git Config       1 hr 16 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   03.97 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
 <h3 align="center">🐾 Tracks & Footprints (Activity)</h3>
-
 
 <div align="center">
   <img src="https://github.com/Hafidh99/Hafidh99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
@@ -109,10 +98,11 @@ Git Config       1 hr 16 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰�
 ---
 
 ### 🦴 Current Obsession / Play
-* 🕹️ *Genshin Impact*
-* ⚔️ *Zenless Zone Zero*
-* 🍰 *Trickcal Revive*
-* 🪢 *Engineering custom restraints & play-scripts for a certain exclusive Club*
+
+- 🕹️ _Genshin Impact_
+- ⚔️ _Zenless Zone Zero_
+- 🍰 _Trickcal Revive_
+- 🪢 _Engineering custom restraints & play-scripts for a certain exclusive Club_
 
 <br>
 
