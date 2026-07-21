@@ -71,7 +71,7 @@
 
 <h3 align="center">🔥 Daily Obedience (Streak)</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=8b949e&currStreakLabel=8b949e&dates=8b949e&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Hafidh99" alt="GitHub Streak" />
 </div>
 
 <br>
