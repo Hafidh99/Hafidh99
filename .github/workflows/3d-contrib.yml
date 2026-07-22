@@ -3,10 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
     workflow_dispatch:
     schedule:
-        - cron: "0 */3  * * *"
-    push:
-        branches:
-            - main
+        - cron: "0 0 * * *"
 
 jobs:
     build:
