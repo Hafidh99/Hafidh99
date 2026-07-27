@@ -82,18 +82,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 54 hrs 57 mins
+Total Time: 57 hrs 32 mins
 
-JavaScript                         10 hrs 40 mins        ▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   19.37 %
-TypeScript                         8 hrs 48 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   15.96 %
-PHP                                7 hrs 50 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   14.21 %
-HTML                               6 hrs 37 mins         ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   12.00 %
-Blade Template                     4 hrs 12 mins         ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.63 %
-JSX                                4 hrs 3 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.36 %
-Python                             3 hrs 59 mins         ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.23 %
-PowerShell                         1 hr 5 mins           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   01.97 %
+JavaScript                         10 hrs 20 mins        ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   17.93 %
+TypeScript                         10 hrs 6 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   17.53 %
+PHP                                9 hrs 29 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   16.46 %
+HTML                               7 hrs 5 mins          ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   12.30 %
+Blade Template                     5 hrs 9 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.94 %
+Python                             4 hrs 45 mins         ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.24 %
+JSX                                4 hrs 42 mins         ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.16 %
+PowerShell                         1 hr 5 mins           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   01.89 %
 ```
 
 <!--END_SECTION:waka-->
