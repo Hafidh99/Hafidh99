@@ -71,7 +71,7 @@
 
 <h3 align="center">🔥 Daily Obedience (Streak)</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=dark&ring=A855F7&fire=A855F7&currStreakNum=A855F7&hide_border=true" alt="GitHub Streak Neon Purple" />
+  <img src="https://github-readme-streak-stats-sigma-ashy.vercel.app/?user=Hafidh99&theme=dark&ring=A855F7&fire=A855F7&currStreakNum=A855F7&hide_border=true" alt="GitHub Streak Neon Purple" />
 </p>
 <br>
 
