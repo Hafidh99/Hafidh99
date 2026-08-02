@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Hafidh99" target="_blank">
+  <a href="https://github.com/Izumii99" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/hafidh-hefiandra-1b3358308/" target="_blank">
@@ -71,7 +71,7 @@
 
 <h3 align="center">🔥 Daily Obedience (Streak)</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hafidh99&theme=dark&ring=A855F7&fire=A855F7&currStreakNum=A855F7&hide_border=true" alt="GitHub Streak Neon Purple" />
+  <img src="https://streak-stats.demolab.com?user=Izumii99&theme=dark&ring=A855F7&fire=A855F7&currStreakNum=A855F7&hide_border=true" alt="GitHub Streak Neon Purple" />
 </p>
 <br>
 
@@ -103,11 +103,11 @@ C#               1 hr 35 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰�
 <h3 align="center">🐾 Tracks & Footprints (Activity)</h3>
 
 <div align="center">
-  <img src="https://github.com/Hafidh99/Hafidh99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
+  <img src="https://github.com/Izumii99/Izumii99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </div>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hafidh99/Hafidh99/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
+  <img src="https://raw.githubusercontent.com/Izumii99/Izumii99/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
 </div>
 
 ---
@@ -130,5 +130,5 @@ C#               1 hr 35 mins          ▱▰▰▰▰▰▰▰▰▰▰▰▰�
 
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hafidh99&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Izumii99&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
