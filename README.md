@@ -11,18 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Moshi2~+IzumI+desu~~;Full-Stack+%26+Backend+Developer;Laravel+%E2%80%A2+Filament;Tailwind+%E2%80%A2+Blade" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Izumii99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/hafidh-hefiandra-1b3358308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hafidhhefiandra99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 <br>
 
 <h3 align="center">🐾 Playroom Dynamics</h3>
